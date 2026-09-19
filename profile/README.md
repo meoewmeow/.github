@@ -1,6 +1,6 @@
 # meoewmeow
 
-A personal Android 16 ROM for the Nothing Phone (2a) "Spacewar", built on crDroid 12.12.
+A personal Android 16 ROM for the Nothing Phone (1) "Spacewar", built on crDroid 12.12.
 
 ## Where features come from
 
